@@ -2,6 +2,9 @@
 
 # IntelliJ related
 *.iml
+*.ipr
+*.iws
+*.lock
 .idea/
 
 pubspec_overrides.yaml
