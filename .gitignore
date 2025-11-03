@@ -7,3 +7,9 @@
 pubspec_overrides.yaml
 pubspec.lock
 .vercel
+
+
+# IntelliJ related
+*.ipr
+*.iws
+*.lock

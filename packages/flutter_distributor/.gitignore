@@ -4,3 +4,11 @@ build/
 pubspec.lock  # Except for application packages
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+*.lock
+.idea/

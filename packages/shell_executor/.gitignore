@@ -2,3 +2,10 @@
 .packages
 build/
 pubspec.lock  # Except for application packages
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+*.lock
+.idea/
